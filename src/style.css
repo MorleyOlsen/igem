@@ -1,0 +1,19 @@
+body {
+    overflow-x: hidden;
+    font-family: 'proxima-nova-reg';
+    padding:0;
+    margin:0;
+    --cau2022-blue:#d2dddf;
+    --cau2022-green:#d0decf;
+    --cau2022-yellow:#eaebda;
+    --cau2022-purple:#cbced7;
+    --cau2022-red:#d6cbcf;
+  }
+
+  p{
+    font-size:1.2em;
+  }
+  
+  img{
+    max-width:100%
+  }
